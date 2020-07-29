@@ -1,1 +1,1 @@
-# details-video
+Sample app to test Jutsu
